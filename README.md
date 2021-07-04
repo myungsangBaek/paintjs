@@ -1,2 +1,2 @@
 # paintjs
-Public Paint Canvas
+Painting Board made with Vanilla JS
